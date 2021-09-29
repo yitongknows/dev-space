@@ -1,0 +1,1 @@
+>The purpose of this project is for me to learn the fundamentals of building websites using the MERN stack (MongoDB, Express, ReactJS, and NodeJS). The project content is originated by the course - "MERN Stack Front To Back: Full Stack React, Redux & Node.js".
